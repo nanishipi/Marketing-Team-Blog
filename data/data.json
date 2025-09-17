@@ -1,0 +1,80 @@
+{
+  "team": [
+    { "name": "Hugo Ribeiro", "email": "Hugo@isep.ipp.pt", "image": "/images/bengal cat.jpg" },
+    { "name": "Tiago Gonçalves", "email": "Tiago@isep.ipp.pt", "image": "/images/gray-cat.jpg" },
+    { "name": "João Serra", "email": "João@isep.ipp.pt", "image": "/images/black cat.jpg" },
+    { "name": "Gonçalo Mendes", "email": "1250421@isep.ipp.pt", "image": "/images/stripped cat.jpg" },
+    { "name": "Mariana Neves", "email": "Mariana@isep.ipp.pt", "image": "/images/white cat.jpg" },
+    { "name": "Carlos Soares", "email": "Carlos@isep.ipp.pt", "image": "images/orange cat.jpg" }
+  ],
+  "challenges": [
+    {
+      "id": 1,
+      "title": "Challenge 1: Kickoff",
+      "image": "images/challenge1.jpg",
+      "description": "Starting strong with our project foundation.",
+      "longDescription": "This challenge focuses on setting up our project structure, defining goals, and assigning roles.",
+      "expert": {
+        "name": "Dr. Marta Sousa",
+        "title": "Project Mentor",
+        "bio": "Specialist in Agile methodologies with 10 years of experience guiding student projects.",
+        "image": "images/expert1.jpg"
+      },
+      "weeks": [
+        { "week": 1, "summary": "We set up the repo and aligned goals.", "report": "Full detailed report of week 1 setup and planning." },
+        { "week": 2, "summary": "Initial research and role assignments.", "report": "Full detailed report of week 2 research." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Challenge 2: Development",
+      "image": "images/challenge2.jpg",
+      "description": "Building core features and testing.",
+      "longDescription": "Focus on coding, testing, and integration of the core product.",
+      "expert": {
+        "name": "Prof. João Almeida",
+        "title": "Tech Advisor",
+        "bio": "Expert in web technologies and scalable solutions.",
+        "image": "images/expert2.jpg"
+      },
+      "weeks": [
+        { "week": 3, "summary": "Core feature implementation.", "report": "Full detailed report of week 3 development." },
+        { "week": 4, "summary": "Integration and testing.", "report": "Full detailed report of week 4 integration." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Challenge 3: Optimization",
+      "image": "images/challenge3.jpg",
+      "description": "Improving performance and scalability.",
+      "longDescription": "This stage focused on optimization, debugging, and ensuring reliability.",
+      "expert": {
+        "name": "Eng. Sofia Pires",
+        "title": "Optimization Specialist",
+        "bio": "Works with software optimization and system efficiency.",
+        "image": "images/expert3.jpg"
+      },
+      "weeks": [
+        { "week": 5, "summary": "Performance audit.", "report": "Full detailed report of week 5 optimization." },
+        { "week": 6, "summary": "Code refactor and cleanup.", "report": "Full detailed report of week 6 refactor." }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Challenge 4: Final Presentation",
+      "image": "images/challenge4.jpg",
+      "description": "Preparing for delivery and presentation.",
+      "longDescription": "Final polishing, documentation, and presenting the project.",
+      "expert": {
+        "name": "Dr. Pedro Lima",
+        "title": "Presentation Coach",
+        "bio": "Helps teams improve public speaking and delivery.",
+        "image": "images/expert4.jpg"
+      },
+      "weeks": [
+        { "week": 7, "summary": "Final report drafting.", "report": "Full detailed report of week 7." },
+        { "week": 8, "summary": "Rehearsals and final delivery.", "report": "Full detailed report of week 8." }
+      ]
+    }
+  ]
+}
